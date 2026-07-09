@@ -78,6 +78,30 @@ Security assessments performed on vulnerable web applications using OWASP ZAP, w
 
 ---
 
+## 📂 Featured Repositories
+
+### 🔐 SMSLITE
+Modern end-to-end secure messaging application demonstrating X25519, HKDF, AES-256-GCM and authenticated encryption.
+
+🔗 https://github.com/aaronabavi09/smslite
+
+---
+
+### 🛡️ IoT Vulnerability Prioritization Platform *(coming soon)*
+Platform designed to prioritize router vulnerabilities using NVD, EPSS and CISA KEV intelligence.
+
+---
+
+### 📊 SIEM Security Monitoring Lab *(coming soon)*
+Detection laboratory based on Wazuh, Suricata and Elastic Stack.
+
+---
+
+### 🌐 Web Application Security Assessment *(coming soon)*
+OWASP Top 10 assessments performed using OWASP ZAP and vulnerable web applications.
+
+---
+
 ## Contact
 
 📧 Email: aaronabavi08@gmail.com  
