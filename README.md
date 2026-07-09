@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Abavi 👋
+# Hi, I'm Aaron ABAVI 👋
 
 🎓 Cybersecurity graduate student at the Université du Québec à Chicoutimi (UQAC)  
 🛡️ Defensive Security | Vulnerability Management | SIEM | Infrastructure Security  
