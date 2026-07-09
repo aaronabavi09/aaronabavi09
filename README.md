@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Aaron Abavi 👋
 
-<!--
-**aaronabavi09/aaronabavi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity graduate student at the Université du Québec à Chicoutimi (UQAC)  
+🛡️ Defensive Security | Vulnerability Management | SIEM | Infrastructure Security  
+📍 Chicoutimi, Québec, Canada  
+🔎 Currently looking for a Fall 2026 cybersecurity internship
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a master's student in computer science with a cybersecurity specialization, focused on defensive security, vulnerability management, threat detection and infrastructure security.
+
+Through academic and hands-on projects, I have worked on vulnerability prioritization, SIEM deployment, secure communications and web application security assessment.
+
+My goal is to contribute to the protection of information systems while continuing to grow as a cybersecurity professional.
+
+---
+
+## Areas of Interest
+
+- Defensive Cybersecurity
+- Vulnerability Management
+- Threat Detection
+- SIEM & Security Monitoring
+- Infrastructure Security
+- Web Application Security
+- Applied Cryptography
+
+---
+
+## Technical Skills
+
+**Cybersecurity**  
+Vulnerability Management · OWASP Top 10 · CVE/CVSS · EPSS · CISA KEV · Incident Response
+
+**SIEM & Monitoring**  
+Wazuh · Suricata · Elastic Stack · Log Analysis · IDS
+
+**Development**  
+Python · FastAPI · SQLite · React · Java · Kotlin
+
+**Infrastructure & Tools**  
+Linux · Windows · Docker · VMware Workstation · Git · Kali Linux
+
+**Networking**  
+TCP/IP · Wireshark · Network Troubleshooting
+
+---
+
+## Featured Projects
+
+### IoT Vulnerability Prioritization Platform
+A platform designed to prioritize vulnerabilities affecting SOHO routers by correlating NVD, EPSS and CISA KEV data.
+
+**Tech:** Python · FastAPI · SQLite · NVD · EPSS · CISA KEV
+
+---
+
+### SIEM Security Monitoring Laboratory
+A virtualized SIEM lab integrating Wazuh, Suricata and Elastic Stack for log collection, intrusion detection and attack scenario validation.
+
+**Tech:** Wazuh · Suricata · Elastic Stack · VMware
+
+---
+
+### SMSLITE
+A secure messaging application implementing modern cryptographic mechanisms such as X25519, AES-GCM, HKDF and digital signatures.
+
+**Tech:** Python · X25519 · AES-GCM · HKDF
+
+---
+
+### Web Application Security Assessment
+Security assessments performed on vulnerable web applications using OWASP ZAP, with manual validation and remediation recommendations.
+
+**Tech:** OWASP ZAP · WebGoat · bWAPP
+
+---
+
+## Contact
+
+📧 Email: aaronabavi08@gmail.com  
+🔗 LinkedIn: linkedin.com/in/aaronabavi  
+💻 GitHub: github.com/aaronabavi09
