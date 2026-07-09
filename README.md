@@ -102,23 +102,6 @@ OWASP Top 10 assessments performed using OWASP ZAP and vulnerable web applicatio
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaronabavi09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronabavi09&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaronabavi09&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## Contact
 
 📧 Email: aaronabavi08@gmail.com  
