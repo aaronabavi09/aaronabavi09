@@ -78,7 +78,7 @@ Security assessments performed on vulnerable web applications using OWASP ZAP, w
 
 ---
 
-## 📂 Featured Repositories
+## 🚀 Featured Repositories
 
 ### 🔐 SMSLITE
 Modern end-to-end secure messaging application demonstrating X25519, HKDF, AES-256-GCM and authenticated encryption.
@@ -99,6 +99,23 @@ Detection laboratory based on Wazuh, Suricata and Elastic Stack.
 
 ### 🌐 Web Application Security Assessment *(coming soon)*
 OWASP Top 10 assessments performed using OWASP ZAP and vulnerable web applications.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaronabavi09&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronabavi09&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aaronabavi09&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
