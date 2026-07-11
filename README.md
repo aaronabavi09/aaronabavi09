@@ -87,8 +87,10 @@ Modern end-to-end secure messaging application demonstrating X25519, HKDF, AES-2
 
 ---
 
-### 🛡️ IoT Vulnerability Prioritization Platform *(coming soon)*
+### 🛡️ IoT Vulnerability Prioritization Platform
 Platform designed to prioritize router vulnerabilities using NVD, EPSS and CISA KEV intelligence.
+
+https://github.com/aaronabavi09/iot-vulnerability-prioritization-platform
 
 ---
 
