@@ -94,8 +94,10 @@ https://github.com/aaronabavi09/iot-vulnerability-prioritization-platform
 
 ---
 
-### 📊 SIEM Security Monitoring Lab *(coming soon)*
+### 📊 SIEM Security Monitoring Lab
 Detection laboratory based on Wazuh, Suricata and Elastic Stack.
+
+https://github.com/aaronabavi09/siem-security-monitoring-lab
 
 ---
 
