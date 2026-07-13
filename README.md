@@ -101,8 +101,10 @@ https://github.com/aaronabavi09/siem-security-monitoring-lab
 
 ---
 
-### 🌐 Web Application Security Assessment *(coming soon)*
+### 🌐 Web Application Security Assessment
 OWASP Top 10 assessments performed using OWASP ZAP and vulnerable web applications.
+
+https://github.com/aaronabavi09/web-application-security-assessment
 
 ---
 
