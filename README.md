@@ -108,6 +108,87 @@ https://github.com/aaronabavi09/web-application-security-assessment
 
 ---
 
+## 🚧 Projects in Progress
+
+I am currently expanding my cybersecurity portfolio with new hands-on projects focused on defensive security, detection engineering, vulnerability management, application security, and cloud security.
+
+### 🛡️ Defensive Detection Engineering & Incident Response Lab
+
+**Status:** 🔨 In progress
+
+A hands-on defensive security lab focused on simulating, detecting, investigating, and documenting Windows security incidents using Wazuh, Sysmon, Sigma rules, and the MITRE ATT&CK framework.
+
+**Planned highlights:**
+
+* Windows event monitoring with Sysmon
+* Custom Wazuh and Sigma detection rules
+* Controlled attack simulations
+* Alert triage and incident investigation
+* MITRE ATT&CK technique mapping
+* Incident response reports and remediation guidance
+
+> Repository coming soon.
+
+---
+
+### 🔍 Enterprise Vulnerability Management Lab
+
+**Status:** 📅 Planned
+
+An end-to-end vulnerability management project covering asset discovery, vulnerability scanning, risk-based prioritization, remediation planning, and validation through follow-up scans.
+
+**Planned highlights:**
+
+* Asset inventory and vulnerability assessment
+* Greenbone/OpenVAS or Nessus scanning
+* CVSS, EPSS, CISA KEV, and asset criticality enrichment
+* Risk-based vulnerability prioritization
+* Remediation SLAs and exception management
+* Before-and-after security metrics
+
+> Repository coming soon.
+
+---
+
+### 🔐 DevSecOps Security Pipeline
+
+**Status:** 📅 Planned
+
+A secure CI/CD pipeline designed to automatically detect vulnerabilities, exposed secrets, insecure dependencies, container risks, and web application weaknesses before deployment.
+
+**Planned highlights:**
+
+* SAST with Semgrep
+* Secret detection with Gitleaks
+* Dependency and container scanning
+* DAST with OWASP ZAP
+* SBOM generation
+* Security quality gates with GitHub Actions
+* Vulnerable and remediated application versions
+
+> Repository coming soon.
+
+---
+
+### ☁️ Cloud Security & IAM Lab
+
+**Status:** 🧭 Future project
+
+A practical cloud security lab focused on identity and access management, least privilege, activity monitoring, infrastructure security, and the detection of cloud misconfigurations.
+
+**Planned highlights:**
+
+* IAM users, groups, roles, and policies
+* Least-privilege access controls
+* Cloud activity logging and monitoring
+* Misconfiguration detection and remediation
+* Infrastructure as Code with Terraform
+* Terraform security scanning with Checkov
+
+> Repository coming soon.
+
+---
+
 ## Contact
 
 📧 Email: aaronabavi08@gmail.com  
