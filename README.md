@@ -1,9 +1,9 @@
 # Hi, I'm Aaron ABAVI 👋
 
-🎓 Cybersecurity graduate student at the Université du Québec à Chicoutimi (UQAC)  
-🛡️ Defensive Security | Vulnerability Management | SIEM | Infrastructure Security  
-📍 Chicoutimi, Québec, Canada  
-🔎 Currently looking for a Fall 2026 cybersecurity internship
+🎓 Cybersecurity graduate student at the Université du Québec à Chicoutimi (UQAC)
+🛡️ Defensive Security | Vulnerability Management | Detection Engineering | Infrastructure Security
+📍 Chicoutimi, Québec, Canada
+🔎 Open to cybersecurity internship and junior defensive security opportunities
 
 ---
 
