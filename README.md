@@ -50,6 +50,14 @@ TCP/IP · Wireshark · Network Troubleshooting
 
 ## Featured Projects
 
+### Wazuh-Sysmon Detection Engineering Lab
+
+A hands-on Windows detection engineering lab focused on Sysmon telemetry, custom Wazuh rules, MITRE ATT&CK mapping, live alert validation, tuning and troubleshooting across 10 controlled security scenarios.
+
+Tech: Wazuh · Sysmon · Windows Event Logs · PowerShell · MITRE ATT&CK · VMware
+
+---
+
 ### IoT Vulnerability Prioritization Platform
 A platform designed to prioritize vulnerabilities affecting SOHO routers by correlating NVD, EPSS and CISA KEV data.
 
