@@ -94,6 +94,16 @@ https://github.com/aaronabavi09/iot-vulnerability-prioritization-platform
 
 ---
 
+### 🔎 Wazuh-Sysmon Detection Engineering Lab
+
+Hands-on defensive security lab focused on Windows telemetry, SIEM detection engineering, custom Wazuh rules, MITRE ATT&CK mapping, alert validation, tuning and troubleshooting.
+
+The project evaluates 10 controlled detection scenarios using Sysmon, Windows Event Logs and Wazuh, with validated production rules separated from experimental detections.
+
+🔗 https://github.com/aaronabavi09/Wazuh-Sysmon-Detection-Engineering-Lab
+
+---
+
 ### 📊 SIEM Security Monitoring Lab
 Detection laboratory based on Wazuh, Suricata and Elastic Stack.
 
@@ -111,25 +121,6 @@ https://github.com/aaronabavi09/web-application-security-assessment
 ## 🚧 Projects in Progress
 
 I am currently expanding my cybersecurity portfolio with new hands-on projects focused on defensive security, detection engineering, vulnerability management, application security, and cloud security.
-
-### 🛡️ Defensive Detection Engineering & Incident Response Lab
-
-**Status:** 🔨 In progress
-
-A hands-on defensive security lab focused on simulating, detecting, investigating, and documenting Windows security incidents using Wazuh, Sysmon, Sigma rules, and the MITRE ATT&CK framework.
-
-**Planned highlights:**
-
-* Windows event monitoring with Sysmon
-* Custom Wazuh and Sigma detection rules
-* Controlled attack simulations
-* Alert triage and incident investigation
-* MITRE ATT&CK technique mapping
-* Incident response reports and remediation guidance
-
-> Repository coming soon.
-
----
 
 ### 🔍 Enterprise Vulnerability Management Lab
 
